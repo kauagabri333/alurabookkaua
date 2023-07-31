@@ -1,0 +1,9 @@
+:root {
+    --cor-de-fundo
+}
+boody [
+    background-color: var(--cor-de-fundo);
+]
+hi[
+    background-colo: white;
+]
